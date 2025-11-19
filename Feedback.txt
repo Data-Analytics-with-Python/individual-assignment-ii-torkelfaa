@@ -1,0 +1,5 @@
+
+You should have done “Before you start, enter your name and student number below.”, No deduction. Next time it will lead to 5 deduction!
+A1-ii) More comment is needed: -1
+A2-ii) More comment is needed: -2
+97/100
